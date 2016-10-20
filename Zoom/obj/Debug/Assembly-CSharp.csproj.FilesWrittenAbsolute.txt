@@ -1,0 +1,13 @@
+/Users/chloe/Desktop/Zoom/Temp/bin/Debug/UnityEngine.dll
+/Users/chloe/Desktop/Zoom/Temp/bin/Debug/UnityEditor.dll
+/Users/chloe/Desktop/Zoom/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/chloe/Desktop/Zoom/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/chloe/Desktop/Zoom/Temp/bin/Debug/Mono.Cecil.dll
+/Users/chloe/Desktop/Zoom/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/chloe/Desktop/Zoom/Temp/bin/Debug/Unity.DataContract.dll
+/Users/chloe/Desktop/Zoom/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/chloe/Desktop/Zoom/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/chloe/Desktop/Zoom/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/chloe/Desktop/Zoom/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/chloe/Desktop/Zoom/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/chloe/Desktop/Zoom/Temp/bin/Debug/Mono.Cecil.Mdb.dll
